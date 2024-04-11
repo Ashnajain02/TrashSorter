@@ -1,1 +1,0 @@
-img1 = cv2.imread("apple1.png", cv2.IMREAD_UNCHANGED)
